@@ -1,0 +1,9 @@
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.csproj.AssemblyReference.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.AssemblyInfoInputs.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.AssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Release\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cs

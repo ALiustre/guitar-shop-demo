@@ -1,0 +1,45 @@
+﻿@page
+@model EmployeeManager.Views.Home.RegisterModel
+@{
+}
+<div class="container">
+    <div class="d-flex justify-content-center h-100">
+        <div class="card">
+            <div class="card-header">
+                <h3>Register</h3>
+                <div class="d-flex justify-content-end social_icon">
+                    
+                </div>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div asp-validation-summary="All" class="text-danger">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Model.id">Id</label>
+                        <input type="text" asp-for="Model.id" class="form-control"/>
+                        <span asp-validation-for="Model.id" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Model.LoginId">username</label>
+                        <input type="text" asp-for="Model.LoginId" class="form-control"/>
+                        <span asp-validation-for="Model.LoginId" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Model.Password">Password</label>
+                        <input type="text" asp-for="Model.Password" class="form-control"/>
+                        <span asp-validation-for="Model.Password" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Model.EmployeeName">Id</label>
+                        <input type="text" asp-for="Model.EmployeeName" class="form-control"/>
+                        <span asp-validation-for="Model.EmployeeName" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

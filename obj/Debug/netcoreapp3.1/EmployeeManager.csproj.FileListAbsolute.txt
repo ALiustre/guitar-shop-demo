@@ -1,0 +1,751 @@
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.exe
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.deps.json
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.runtimeconfig.json
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.runtimeconfig.dev.json
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.pdb
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.Views.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.Views.pdb
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.AssemblyInfo.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManager.StaticWebAssets.Manifest.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManager.StaticWebAssets.xml
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeManager.styles.css
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.TagHelpers.input.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.TagHelpers.output.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorCoreGenerate.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorTargetAssemblyInfo.cs
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.Views.pdb
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.CopyComplete
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.pdb
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.genruntimeconfig.cache
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\EmployeeManager\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\SuccessPage.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.StaticWebAssets.xml
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.exe
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.deps.json
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.runtimeconfig.json
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.runtimeconfig.dev.json
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.pdb
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.Views.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\EmployeeManager.Views.pdb
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.AssemblyReference.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.AssemblyInfoInputs.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.AssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorAssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManager.StaticWebAssets.Manifest.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManager.StaticWebAssets.Pack.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EmployeeManager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EmployeeManager.props
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EmployeeManager.props
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EmployeeManager.props
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.TagHelpers.input.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.TagHelpers.output.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorCoreGenerate.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\SuccessPage.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorTargetAssemblyInfo.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.RazorTargetAssemblyInfo.cs
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.Views.pdb
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.csproj.CopyComplete
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.dll
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.pdb
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\EmployeeManager.genruntimeconfig.cache
+D:\CNTT\HKIV\Web\Asp.Net Core MVC Login Form Using Ms SQL C#\EmployeeManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs

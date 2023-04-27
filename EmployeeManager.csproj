@@ -1,0 +1,123 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Home\cart.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Home\cart.cshtml" />
+    <Content Remove="wwwroot\images\about-1-300x460.jpg" />
+    <Content Remove="wwwroot\images\about-2-300x460.jpg" />
+    <Content Remove="wwwroot\images\about-3-300x460.jpg" />
+    <Content Remove="wwwroot\images\ajax-loader.gif" />
+    <Content Remove="wwwroot\images\arrows.png" />
+    <Content Remove="wwwroot\images\barbers-1-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-2-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-3-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-4-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-5-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-6-370x310.jpg" />
+    <Content Remove="wwwroot\images\barbers-7-400x480.jpg" />
+    <Content Remove="wwwroot\images\barbers-8-400x480.jpg" />
+    <Content Remove="wwwroot\images\barbers-9-400x480.jpg" />
+    <Content Remove="wwwroot\images\barbers-single-1-130x130.jpg" />
+    <Content Remove="wwwroot\images\bg-image-1.jpg" />
+    <Content Remove="wwwroot\images\bg-image-2.jpg" />
+    <Content Remove="wwwroot\images\bg-image-3.jpg" />
+    <Content Remove="wwwroot\images\bg-image-4.jpg" />
+    <Content Remove="wwwroot\images\bg-image-5.jpg" />
+    <Content Remove="wwwroot\images\bg-image-6.jpg" />
+    <Content Remove="wwwroot\images\bg-image-title.jpg" />
+    <Content Remove="wwwroot\images\blog-1-770x330.jpg" />
+    <Content Remove="wwwroot\images\blog-2-770x330.jpg" />
+    <Content Remove="wwwroot\images\blog-3-370x250.jpg" />
+    <Content Remove="wwwroot\images\blog-3-770x330.jpg" />
+    <Content Remove="wwwroot\images\blog-4-370x250.jpg" />
+    <Content Remove="wwwroot\images\blog-5-370x250.jpg" />
+    <Content Remove="wwwroot\images\box-post-1-530x490.png" />
+    <Content Remove="wwwroot\images\box-post-2-530x490.png" />
+    <Content Remove="wwwroot\images\box-post-3-530x490.png" />
+    <Content Remove="wwwroot\images\card-1-65x40.png" />
+    <Content Remove="wwwroot\images\card-2-65x40.png" />
+    <Content Remove="wwwroot\images\card-3-65x40.png" />
+    <Content Remove="wwwroot\images\card-4-65x40.png" />
+    <Content Remove="wwwroot\images\card-5-65x40.png" />
+    <Content Remove="wwwroot\images\cart-1-80x82.png" />
+    <Content Remove="wwwroot\images\favicon.ico" />
+    <Content Remove="wwwroot\images\gmap_marker.png" />
+    <Content Remove="wwwroot\images\gmap_marker_active.png" />
+    <Content Remove="wwwroot\images\home-1-585x580.jpg" />
+    <Content Remove="wwwroot\images\home-three-1-1920x800.jpg" />
+    <Content Remove="wwwroot\images\home-three-2-910x800.jpg" />
+    <Content Remove="wwwroot\images\home-three-3-1011x800.jpg" />
+    <Content Remove="wwwroot\images\home-two-1-495x261.png" />
+    <Content Remove="wwwroot\images\icon-done-15x14.png" />
+    <Content Remove="wwwroot\images\icon-service-1-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-2-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-3-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-4-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-light-1-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-light-2-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-light-3-70x62.png" />
+    <Content Remove="wwwroot\images\icon-service-light-4-70x62.png" />
+    <Content Remove="wwwroot\images\isotope-loader.png" />
+    <Content Remove="wwwroot\images\logo-big-dark-125x125.png" />
+    <Content Remove="wwwroot\images\logo-big-light-160x160.png" />
+    <Content Remove="wwwroot\images\logo-default-dark-200x36.png" />
+    <Content Remove="wwwroot\images\logo-default-light-200x36.png" />
+    <Content Remove="wwwroot\images\photoswipe-controls.png" />
+    <Content Remove="wwwroot\images\photoswipe-controls.svg" />
+    <Content Remove="wwwroot\images\post-single-1-1170x600.jpg" />
+    <Content Remove="wwwroot\images\preloader.gif" />
+    <Content Remove="wwwroot\images\preloader.png" />
+    <Content Remove="wwwroot\images\product-1-164x168.png" />
+    <Content Remove="wwwroot\images\product-2-210x168.png" />
+    <Content Remove="wwwroot\images\product-3-175x168.png" />
+    <Content Remove="wwwroot\images\product-single-1-274x280.png" />
+    <Content Remove="wwwroot\images\product-single-2-274x280.png" />
+    <Content Remove="wwwroot\images\product-single-3-274x280.png" />
+    <Content Remove="wwwroot\images\product-single-4-274x280.png" />
+    <Content Remove="wwwroot\images\services-1-500x490.png" />
+    <Content Remove="wwwroot\images\services-2-500x490.png" />
+    <Content Remove="wwwroot\images\services-3-500x490.png" />
+    <Content Remove="wwwroot\images\services-4-500x490.png" />
+    <Content Remove="wwwroot\images\team-1-170x180.jpg" />
+    <Content Remove="wwwroot\images\team-2-170x180.jpg" />
+    <Content Remove="wwwroot\images\team-3-170x180.jpg" />
+    <Content Remove="wwwroot\images\testimonials-1-100x100.jpg" />
+    <Content Remove="wwwroot\images\testimonials-2-100x100.jpg" />
+    <Content Remove="wwwroot\images\testimonials-3-100x100.jpg" />
+    <Content Remove="wwwroot\images\testimonials-4-100x100.jpg" />
+    <Content Remove="wwwroot\images\testimonials-5-100x100.jpg" />
+    <Content Remove="wwwroot\images\typography-1-770x485.jpg" />
+    <Content Remove="wwwroot\images\typography-2-350x220.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Home\cart.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\ie8-panel\warning_bar_0000_us.jpg" />
+    <None Include="wwwroot\images\_blank.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
